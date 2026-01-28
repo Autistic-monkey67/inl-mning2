@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+}
+p{
+    margin: 0 auto;
+}
+.carousel-item{
+    height: 600px;
+}
+.left{
+    float: left;
+    padding: 70px;
+    padding-top: 80px;
+    text-align: justify;
+    width: 50%;
+    background-color: lightgreen;
+    height: 400px;
+}
+.right{
+    float: right;
+    width: 50%;
+    height: 400px;
+}
+.img1{
+    height: 400px;
+    width: 100%;
+}
+.footer{
+    background-color: green;
+    padding: 10px;
+}
+.ros{
+    height: 600px;
+}
+.titel{
+    text-align: center;
+    padding: 10px;
+}
+.bg{
+    background-color: green;
+}
+.bredd{
+    width: 100%;
+}
+.kort{
+    margin: 0 auto;
+
+}
+.mitten{
+    float: left;
+    margin: auto;
+}
+.padding{
+    padding: 15px;
+}
